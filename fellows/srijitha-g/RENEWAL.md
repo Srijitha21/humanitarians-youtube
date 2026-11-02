@@ -7,7 +7,7 @@
 
 **Previous Agreement:** September 18 – October 31, 2026
 
-**Renewal Requested:** November 1 – November 30, 2026 (subject to HR approval and permitted effective date)
+**Renewal Requested:** November 1 – November 30, 2026 
 
 **Report Prepared:** November 2, 2026
 
