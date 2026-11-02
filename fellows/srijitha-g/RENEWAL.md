@@ -1,11 +1,25 @@
-Fellowship Renewal Report — Srijitha Gangi
-Project: AI-Assisted Radiotherapy Research
-Supervisor: Professor Srinivas Sridhar
-Previous agreement: September 18–October 31, 2026
-Renewal requested: November 1st - November 30, 2026 
-Report prepared: November 2, 2026
-My research contributions
-During my agreement, I worked on radiotherapy research, reviewed the journal feedback and proposed improvements for an agent-based quality assurance (QA) study, explored open-access TCIA imaging datasets, coordinated with Mubin Modi, and prepared a next-steps plan for the prostate radiotherapy project. My work during this period was focused on research review, technical understanding, and planning rather than running models or writing new software.
+
+# Fellowship Renewal Report — Srijitha Gangi
+
+**Project:** AI-Assisted Radiotherapy Research
+
+**Supervisor:** Professor Srinivas Sridhar
+
+**Previous Agreement:** September 18 – October 31, 2026
+
+**Renewal Requested:** November 1 – November 30, 2026 (subject to HR approval and permitted effective date)
+
+**Report Prepared:** November 2, 2026
+
+---
+
+## My Research Contributions
+
+During my agreement, I worked on radiotherapy research, reviewed the journal feedback and proposed improvements for an agent-based quality assurance (QA) study, explored open-access TCIA imaging datasets, coordinated with Mubin Modi, and prepared a next-steps plan for the prostate radiotherapy project.
+
+My work during this period focused on research review, technical understanding, and planning rather than running models or writing new software.
+
+---
 
 ## Weekly Research Activity Log
 
